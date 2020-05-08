@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a351aee002e5064f06e588f7157853fb",
+    "revision": "fb6acb8131706f8551bede7b9eb9694e",
     "url": "/codegame/index.html"
   },
   {
-    "revision": "66e225e59da68139b0a1",
+    "revision": "6a5c00fef7ed9d253f73",
     "url": "/codegame/static/css/main.cc5db571.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codegame/static/js/2.ee5027b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66e225e59da68139b0a1",
-    "url": "/codegame/static/js/main.5ab0dee8.chunk.js"
+    "revision": "6a5c00fef7ed9d253f73",
+    "url": "/codegame/static/js/main.90f0dd67.chunk.js"
   },
   {
     "revision": "d392c36b083f9dca9e8e",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/codegame/static/css/main.cc5db571.chunk.css",
-    "main.js": "/codegame/static/js/main.5ab0dee8.chunk.js",
-    "main.js.map": "/codegame/static/js/main.5ab0dee8.chunk.js.map",
+    "main.js": "/codegame/static/js/main.90f0dd67.chunk.js",
+    "main.js.map": "/codegame/static/js/main.90f0dd67.chunk.js.map",
     "runtime-main.js": "/codegame/static/js/runtime-main.8a3069dc.js",
     "runtime-main.js.map": "/codegame/static/js/runtime-main.8a3069dc.js.map",
     "static/js/2.ee5027b6.chunk.js": "/codegame/static/js/2.ee5027b6.chunk.js",
     "static/js/2.ee5027b6.chunk.js.map": "/codegame/static/js/2.ee5027b6.chunk.js.map",
     "index.html": "/codegame/index.html",
-    "precache-manifest.95da9a81359eab4e54fc85e19ea1e71d.js": "/codegame/precache-manifest.95da9a81359eab4e54fc85e19ea1e71d.js",
+    "precache-manifest.aa3a8328f68438661b706e58b56a12f9.js": "/codegame/precache-manifest.aa3a8328f68438661b706e58b56a12f9.js",
     "service-worker.js": "/codegame/service-worker.js",
     "static/css/main.cc5db571.chunk.css.map": "/codegame/static/css/main.cc5db571.chunk.css.map",
     "static/js/2.ee5027b6.chunk.js.LICENSE.txt": "/codegame/static/js/2.ee5027b6.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.8a3069dc.js",
     "static/js/2.ee5027b6.chunk.js",
     "static/css/main.cc5db571.chunk.css",
-    "static/js/main.5ab0dee8.chunk.js"
+    "static/js/main.90f0dd67.chunk.js"
   ]
 }
