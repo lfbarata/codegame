@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/codegame/static/css/main.cc5db571.chunk.css",
+    "main.js": "/codegame/static/js/main.5ab0dee8.chunk.js",
+    "main.js.map": "/codegame/static/js/main.5ab0dee8.chunk.js.map",
+    "runtime-main.js": "/codegame/static/js/runtime-main.8a3069dc.js",
+    "runtime-main.js.map": "/codegame/static/js/runtime-main.8a3069dc.js.map",
+    "static/js/2.ee5027b6.chunk.js": "/codegame/static/js/2.ee5027b6.chunk.js",
+    "static/js/2.ee5027b6.chunk.js.map": "/codegame/static/js/2.ee5027b6.chunk.js.map",
+    "index.html": "/codegame/index.html",
+    "precache-manifest.95da9a81359eab4e54fc85e19ea1e71d.js": "/codegame/precache-manifest.95da9a81359eab4e54fc85e19ea1e71d.js",
+    "service-worker.js": "/codegame/service-worker.js",
+    "static/css/main.cc5db571.chunk.css.map": "/codegame/static/css/main.cc5db571.chunk.css.map",
+    "static/js/2.ee5027b6.chunk.js.LICENSE.txt": "/codegame/static/js/2.ee5027b6.chunk.js.LICENSE.txt",
+    "static/media/card.png": "/codegame/static/media/card.b3a492c7.png",
+    "static/media/card_blue.png": "/codegame/static/media/card_blue.0d3b871b.png",
+    "static/media/card_bomb.png": "/codegame/static/media/card_bomb.ef6813f9.png",
+    "static/media/card_red.png": "/codegame/static/media/card_red.82ef2a35.png",
+    "static/media/card_yellow.png": "/codegame/static/media/card_yellow.7ea26672.png",
+    "static/media/index.css": "/codegame/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/logo.svg": "/codegame/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a3069dc.js",
+    "static/js/2.ee5027b6.chunk.js",
+    "static/css/main.cc5db571.chunk.css",
+    "static/js/main.5ab0dee8.chunk.js"
+  ]
+}
